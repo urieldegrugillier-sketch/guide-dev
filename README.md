@@ -1,3 +1,61 @@
-# Guide du développeur débutant
+=== Exemple readme étudiant
 
-Ce projet contient des ressources utiles pour les nouveaux développeurs.
+==== Présentation de l'équipe et rôles respectifs
+
+==== Travail personnel
+
+
+A remplir à chaque séance en autonomie (GPO et DEV) :
+
+[cols="5*", options="header"]
+|============================================================================
+| Date | nom Etudiant 1 | nom Etudiant 2 | nom Etudiant 3 | nom Etudiant 4 
+| 05/05 (exemple) | Création du github et structure des répertoires   |  |  |                   
+|============================================================================
+
+==== Répartition des tâches et état d'avancement (à compléter 
+
+[cols="8*", options="header"]
+|==========================================================================================================================================================
+| version      | rôle utilisateur | use case                 | fonctionnalité           | nom Etudiant 1 | nom Etudiant 2 | nom Etudiant 3 | nom Etudiant 4
+| V0 (exemple) | Administrateur   | Gestion des utilisateurs | Supprimer un utilisateur |                | F              |                |               
+|==========================================================================================================================================================
+
+
+
+Chaque étudiant doit mettre son nom sur une des colonnes étudiant.
+Dans sa colonne il doit remplir la ligne correspondant à chaque partie qu'il a développé en indiquant
+
+*	*F* pour fonctionnel
+*	*D* pour encore en Développement
+*   *A* pour affecté mais pas encore développé
+
+==== Livrables
+
+[cols="4*", options="header"]
+|============================================================================
+| Date       | Nom                                       | Lien | Retour Prof
+| 10/05      | CDC V1                                    |      |            
+|            | Gantt V1 Prévu                            |      |            
+| 17/05 noté | CdC final avec V2 et V3                   |      |            
+|            | Doc. Tec. V0                              |      |            
+|            | Doc User V0                               |      |            
+|            | Recette V0                                |      |            
+| 02/06      | Doc Util V1 et début V2 éventuel          |      |            
+|            | Gantt V1 Réalisé                          |      |            
+|            | Gantt V2 prévu                            |      |            
+|            | Doc. Tech. V1 + code et début V2 éventuel |      |            
+|            | Cahier Tests V1                           |      |            
+|            | Jar V1                                    |      |            
+| 14/06 noté | Doc Util V2 et V3 éventuel                |      |            
+|            | Gantt V2 Réalisé                          |      |            
+|            | Gantt V3 Prévu                            |      |            
+|            | Doc. Tech. V2 + code + V3 éventuel        |      |            
+|            | Cahier Tests V2 et recette finale         |      |            
+|            | Jar V2                                    |      |            
+|============================================================================
+
+
+
+
+Les dépôts non notés permettent d'avoir un retour enseignant pour vous améliorer et participent à la note de suivi de projet. Les dépôts notés sont évalué. 
